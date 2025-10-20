@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anotnio Ribeiro
+# 👋 Hi, I'm Antonio Ribeiro
 
 ## 👨‍💻 Technologies I Work With
 
