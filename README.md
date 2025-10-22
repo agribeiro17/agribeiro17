@@ -42,7 +42,7 @@ Beyond my academic and professional work, I enjoy experimenting with new model a
 
 🧩 Models
 
-YOLOv8 · YOLOv11 · Faster R-CNN · RetinaNet · SSD · EfficientDet · ResNet · MobileNet · VGG · Vision Transformer (ViT) · GRU  ·  Linear Regression  ·  KNN  ·  Random Forest  ·  GRU  ·  TSU  ·  LSTM
+YOLOv8 · YOLOv11 · Faster R-CNN · RetinaNet · SSD · EfficientDet · ResNet · MobileNet · VGG · Vision Transformer (ViT)   ·  Linear Regression  ·  KNN  ·  Random Forest  ·  GRU  ·  TSU  ·  LSTM
 
 🧩 Frameworks & Libraries
 
