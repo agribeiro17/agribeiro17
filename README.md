@@ -16,7 +16,11 @@
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
-
+![Shell](https://img.shields.io/badge/-Shell-FFD500?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SLURM](https://img.shields.io/badge/-SLURM-2D72D9?style=for-the-badge&logo=linux&logoColor=white)
 ---
 ##  About Me
 I’m an **Electrical and Computer Engineer** with a strong passion for **Deep Learning**, **Artificial Intelligence**, and **Computer Vision**, applying these technologies to solve real-world challenges. Originally from **New York**, I pursued my higher education abroad at the **University of Porto, Portugal**, where I specialized in **Electrical and Computer Engineering**.
@@ -36,17 +40,25 @@ Beyond my academic and professional work, I enjoy experimenting with new model a
 
 ## 🧰 Technical Skills
 
-### 🧩 Frameworks
-OpenCV · TensorFlow · PyTorch · Apache Spark · Grafana · ROS/ROS2 · Pandas · NumPy · Matplotlib · Scikit-Learn · Kali Linux · Metasploit · SLURM · FastAPI · MLOps
+🧩 Models
 
-### ⚙️ Tools & Platforms
-Google Colab · Android Studio · AGORA · MATLAB · Visual Studio · Jupyter Notebook · Docker · Linux · GitHub · GitLab
+YOLOv8 · YOLOv11 · Faster R-CNN · RetinaNet · SSD · EfficientDet · ResNet · MobileNet · VGG · Vision Transformer (ViT) · GRU  ·  Linear Regression  ·  KNN  ·  Random Forest  ·  GRU  ·  TSU  ·  LSTM
 
-### 🔌 Microcontrollers
-ESP32 · Atmega · Raspberry Pi · Arduino
+🧩 Frameworks & Libraries
 
-### 💻 Programming Languages
-Python · C/C++ · HTML · SQL · Markdown · PHP · CSS · JavaScript · Kotlin · Shell · Bash Scripting · LaTeX
+PyTorch · TensorFlow · YOLOv8/v11 · OpenCV · FastAPI · Scikit-Learn · Pandas · NumPy · Matplotlib · Apache Spark · ROS/ROS2 · Aim · AGORA · Grafana
+
+⚙️ Tools & Platforms
+
+Docker · Linux · GitHub · GitLab · VS Code · Jupyter Notebook · Google Colab  ·  Android Studio · Overleaf · MATLAB · SLURM
+
+🔌 Embedded & Real-Time Systems
+
+ESP32 · Arduino · Atmega · Raspberry Pi · RTOS (Real-Time Operating System) · FCFS Scheduling · Serial Communication
+
+💻 Programming Languages
+
+Python · C/C++ · Kotlin · JavaScript · HTML · CSS · PHP · SQL  · Bash/Shell · Markdown · LaTeX
 
 ---
 
