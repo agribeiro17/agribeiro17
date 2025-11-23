@@ -23,6 +23,8 @@
 ![SLURM](https://img.shields.io/badge/-SLURM-2D72D9?style=for-the-badge&logo=linux&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/-Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-2B2B2B?style=for-the-badge&logo=ollama&logoColor=white)
+
 
 ---
 ##  About Me
